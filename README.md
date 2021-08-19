@@ -12,3 +12,4 @@ control dc motor clockwise/counter-clockwise through WiFi web-server using ESP82
     If you use external power supply, don't forget to also connect the GND to power supply's<h3/>
     
 Note: before you upload and run the code, change the ssid and password first
+Use the websocket for lower latency, and update to all client
